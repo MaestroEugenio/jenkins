@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    //
+    // THI
     // this section configures Jenkins options
     options {
 
