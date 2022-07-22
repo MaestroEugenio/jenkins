@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    // THIS IS A CHANGE FOR TEST
+    // THIS IS A CHANGE FOR TEST 2
     // this section configures Jenkins options
     options {
 
